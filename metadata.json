@@ -1,0 +1,6 @@
+{
+  "name": "InterviewMeet AI",
+  "description": "Simulator wawancara kerja real-time 1-on-1 ala panggilan video dengan pewawancara AI interaktif, pengenalan suara, dan rapor evaluasi STAR.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
